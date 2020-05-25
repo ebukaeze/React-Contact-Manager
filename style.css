@@ -1,0 +1,16 @@
+h1, p {
+  font-family: Lato;
+}
+ul {
+  padding: 5px;
+}
+li{
+  width:inherit;
+  height: 20px;
+  background-color: #adee;
+  display: block;
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+}
